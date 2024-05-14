@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="css/bakery.css"?>
+<root>
+<INFORMATIONS>
+   
+    <!-- <INFORMATION>
+        <LABEL_SHOPPING_MALL> Местонахождение</LABEL_SHOPPING_MALL>
+         <LABEL_LOCATION>Адрес</LABEL_LOCATION>
+         <LABEL_WORKING_HOURS>Время работы</LABEL_WORKING_HOURS>
+         <LABEL_TELEPHONE>Телефон</LABEL_TELEPHONE>
+     </INFORMATION> -->
+    <INFORMATION>
+       <SHOPPING_MALL> Островок в ТЦ "Galleria Minsk"</SHOPPING_MALL>
+        <LOCATION>Адрес: пр-т. Победителей 9, Минск, Минская область,</LOCATION>
+        <WORKING_HOURS>Время работы: ежедневно с 10:00 до 22:00</WORKING_HOURS>
+        <TELEPHONE>Телефон: +375(44) 555-74-98</TELEPHONE>
+    </INFORMATION>
+    <INFORMATION>
+        <SHOPPING_MALL> Островок в ТЦ "Замок"</SHOPPING_MALL>
+        <LOCATION>Адрес: пр-т. Победителей 65, Минск, Минская область,</LOCATION>
+        <WORKING_HOURS>Время работы: ежедневно с 10:00 до 22:00</WORKING_HOURS>
+        <TELEPHONE>Телефон: +375(17) 309-54-50</TELEPHONE>
+    </INFORMATION>
+    <INFORMATION>
+        <SHOPPING_MALL> Островок в ТЦ "Galileo Mall"</SHOPPING_MALL>
+        <LOCATION>Адрес: пр-т. Победителей 6, Минск, Минская область</LOCATION>
+        <WORKING_HOURS>Время работы: ежедневно с 10:00 до 23:00</WORKING_HOURS>
+        <TELEPHONE>Телефон: +375(17) 328-64-26</TELEPHONE>
+    </INFORMATION>
+    <INFORMATION>
+        <SHOPPING_MALL> Островок в ТЦ "ARENA City"</SHOPPING_MALL>
+        <LOCATION>Адрес: пр-т. Победителей 84, Минск, Минская область</LOCATION>
+        <WORKING_HOURS>Время работы: ежедневно с 10:00 до 22:00</WORKING_HOURS>
+        <TELEPHONE>Телефон: +375(29) 397-47-36</TELEPHONE>
+    </INFORMATION>
+</INFORMATIONS>
+
+<BAKES>
+    <BAKE>
+        <IMG>../photo/first_bake.png</IMG>
+        <NAME>Печенье”Bourbon”</NAME>
+        <PRICE>9</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/second_bake.png</IMG>
+        <NAME>Печенье”Овсяное”</NAME>
+        <PRICE>8</PRICE>
+        <WEIGHT>300</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/third_bake.png</IMG>
+        <NAME>Печенье”Oreo”</NAME>
+        <PRICE>9</PRICE>
+        <WEIGHT>400</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/fourth_bake.png</IMG>
+        <NAME>Печенье”С изюмом”</NAME>
+        <PRICE>12</PRICE>
+        <WEIGHT>250</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/fifth_bake.png</IMG>
+        <NAME>Печенье ”Chocolate”</NAME>
+        <PRICE>7.6</PRICE>
+        <WEIGHT>400</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/sixth_bake.png</IMG>
+        <NAME>Печенье”Песочное”</NAME>
+        <PRICE>5.4</PRICE>
+        <WEIGHT>220</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/seventh_bake.png</IMG>
+        <NAME>Печенье”Кунжут”</NAME>
+        <PRICE>7.2</PRICE>
+        <WEIGHT>190</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/eight_bake.png</IMG>
+        <NAME>Макаруны”Цветные”</NAME>
+        <PRICE>35</PRICE>
+        <WEIGHT>150</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/ninth_bake.png</IMG>
+        <NAME>Печенье”Filling”</NAME>
+        <PRICE>4.5</PRICE>
+        <WEIGHT>280</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/tenth_bake.png</IMG>
+        <NAME>Печенье”Rhombus”</NAME>
+        <PRICE>4.3</PRICE>
+        <WEIGHT>100</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/eleventh_cookie.png</IMG>
+        <NAME>Булочка”Корица”</NAME>
+        <PRICE>3.2</PRICE>
+        <WEIGHT>280</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+    <BAKE>
+        <IMG>../photo/twelvth_bake.png</IMG>
+        <NAME>Булочка”Синабон”</NAME>
+        <PRICE>14</PRICE>
+        <WEIGHT>220</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
+    </BAKE>
+</BAKES>
+
+<BREADS>
+    <BREAD>
+        <IMG>../photo/first_bread.png</IMG>
+        <NAME>Хлеб с посыпкой</NAME>
+        <PRICE>3.5</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/second_bread.png</IMG>
+        <NAME>Хлеб с изюмом</NAME>
+        <PRICE>2.5</PRICE>
+        <WEIGHT>300</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, изюм, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/third_bread.png</IMG>
+        <NAME>Хлеб классический</NAME>
+        <PRICE>4</PRICE>
+        <WEIGHT>240</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/fourth_bread.png</IMG>
+        <NAME>Хлеб белый</NAME>
+        <PRICE>4</PRICE>
+        <WEIGHT>350</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/fifth_bread.png</IMG>
+        <NAME>Хлеб”Колос”</NAME>
+        <PRICE>3</PRICE>
+        <WEIGHT>400</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/sixth_bread.png</IMG>
+        <NAME>Баггет</NAME>
+        <PRICE>4</PRICE>
+        <WEIGHT>150</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/seventh_bread.png</IMG>
+        <NAME>Хлеб”Каравай”</NAME>
+        <PRICE>5</PRICE>
+        <WEIGHT>250</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+    <BREAD>
+        <IMG>../photo/eight_bread.png</IMG>
+        <NAME>Хлеб”Смаж”</NAME>
+        <PRICE>5</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, вода питьевая, закваска (вода питьевая, мука пшеничная в/с), мука пшеничная цельнозерновая свежесмолотая, мука ржаная цельнозерновая свежесмолотая, соль морская пищевая.</COMPOSITION>
+    </BREAD>
+</BREADS>
+
+<CROISSANTS>
+    <CROISSANT>
+        <IMG>../photo/first_croissant.png</IMG>
+        <NAME>Круассан”Классика”</NAME>
+        <PRICE>3.5</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION> мука пшеничная в/с, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, молоко цельное 3,2 %, сахар, дрожжи прессованные, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/second_croissant.png</IMG>
+        <NAME>Круассан”Мини”</NAME>
+        <PRICE>2.5</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION> мука пшеничная в/с, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, молоко цельное 3,2 %, сахар, дрожжи прессованные, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/third_croissant.png</IMG>
+        <NAME>Круассан”Шоколад”</NAME>
+        <PRICE>4</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сливочное несоленое 84% (сливки пастеризованные), молоко цельное 3,2%, вода питьевая, шоколад темный 60% (какао тёртое, сахарная пудра, эмульгатор лецитин соевый, ароматизатор натуральный "Ваниль", какао-продукты – 60%), сахар, шоколад молочный, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/fourth_croissant.png</IMG>
+        <NAME>Круассан с изюмом</NAME>
+        <PRICE>4</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, молоко цельное 3,2 %, сахар, изюм, дрожжи прессованные, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/fifth_croissant.png</IMG>
+        <NAME>Улитка с начинкой</NAME>
+        <PRICE>3</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, сахар, молоко цельное 3,2%, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, яйцо куриное, крахмал кукурузный, дрожжи прессованные, изюм, ваниль стручковая, ром, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/sixth_croissant.png</IMG>
+        <NAME>Круассан c кремом</NAME>
+        <PRICE>4</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, сахар, молоко цельное 3,2%, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, яйцо куриное, крахмал кукурузный, дрожжи прессованные, сметана, ваниль стручковая, ром, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/seventh_croissant.png</IMG>
+        <NAME>Круассан с сыром</NAME>
+        <PRICE>5</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, сахар, молоко цельное 3,2%, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, яйцо куриное, крахмал кукурузный, дрожжи прессованные, сыр, ваниль стручковая, ром, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+    <CROISSANT>
+        <IMG>../photo/eight_croissant.png</IMG>
+        <NAME>Слойка с кремом</NAME>
+        <PRICE>5</PRICE>
+        <WEIGHT>200</WEIGHT>
+        <COMPOSITION>мука пшеничная в/с, сахар, молоко цельное 3,2%, масло сливочное несоленое 84% (сливки пастеризованные), вода питьевая, яйцо куриное, крахмал кукурузный, дрожжи прессованные, сметана, ваниль стручковая, ром, соль пищевая морская.</COMPOSITION>
+    </CROISSANT>
+</CROISSANTS>
+</root>
