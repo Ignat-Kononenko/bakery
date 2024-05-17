@@ -86,7 +86,7 @@
         <COMPOSITION>мука пшеничная в/с, масло сладкосливочное, вода питьевая, сахар,яйцо куриное,  разрыхлитель теста, соль пищевая морская.</COMPOSITION>
     </BAKE>
     <BAKE>
-        <IMG>photo/eight_bake.png</IMG>
+        <IMG>photo/eightBake.png</IMG>
         <NAME>Макаруны ”Цветные”</NAME>
         <PRICE>35</PRICE>
         <WEIGHT>150</WEIGHT>
