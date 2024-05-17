@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
   font-family: "Open_Sans";
-  src: local("Open_Sans"), url(/fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+  src: local("Open_Sans"), url(../fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
 }
 body {
   font-family: "Open_Sans";
@@ -283,6 +283,9 @@ body #menu_toggle {
     justify-content: center;
     align-items: center;
   }
+  body .text_of_menu_of_div_information {
+    font-size: 40px;
+  }
 }
 @media (max-width: 981px) {
   body #menu_toggle {
@@ -449,6 +452,7 @@ body #menu_toggle {
   body .h1_text {
     font-size: 30px;
     margin-bottom: 0%;
+    margin-bottom: 20px;
   }
   body .property {
     border-top: 1px solid #323232;
@@ -456,10 +460,8 @@ body #menu_toggle {
   body .text_of_form {
     font-size: 16px;
   }
-}
-@media (min-width: 1450px) {
-  body .the_third_text_of-fourth_information {
-    font-size: 36px;
+  body .text_of_menu_of_div_information {
+    font-size: 30px;
   }
 }
 body div {
@@ -544,7 +546,7 @@ body .first_informations .third_image_of-first_information {
   height: 250px;
   margin-top: 16px;
   border: 2px solid black;
-  background-image: url("https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-image: url("../photo/first_bread_in_main.PNG");
   background-size: cover;
 }
 body .first_informations .third_image_of-first_information:hover {
@@ -826,7 +828,6 @@ body .menu_of_div_information {
 }
 body .menu_of_div_information .text_of_menu_of_div_information {
   text-align: center;
-  font-size: 40px;
   padding: 20px 0 20px 0;
   box-shadow: 0 0 0 0.1px black;
 }
@@ -907,7 +908,7 @@ body .third_image_of_location {
 }
 body .fourth_image_of_location {
   height: 400px;
-  background-image: url("../photo/fourth_bakery.png");
+  background-image: url("/photo/fourth_bakery.png");
   background-size: 100% 100%;
   margin: 0 50px 0 50px;
 }
