@@ -511,7 +511,7 @@ body .first_informations .first_image_of-first_information {
   height: 250px;
   margin-top: 16px;
   border: 2px solid black;
-  background-image: url("../photo/first_bake_in_main.png");
+  background-image: url("../photo/first_bake_in_main.PNG");
   background-size: cover;
 }
 body .first_informations .first_image_of-first_information:hover {
@@ -529,7 +529,7 @@ body .first_informations .second_image_of-first_information {
   height: 250px;
   margin-top: 16px;
   border: 2px solid black;
-  background-image: url("../photo/first_croissant_in_main.png");
+  background-image: url("../photo/first_croissant_in_main.PNG");
   background-size: cover;
 }
 body .first_informations .second_image_of-first_information:hover {
@@ -771,13 +771,13 @@ body a:hover {
   text-decoration: underline;
 }
 body .head_of_feedback {
-  background-image: url("../photo/feedback.png");
+  background-image: url("../photo/feedback.PNG");
   background-size: cover;
   background-position: center;
   color: rgb(250, 250, 246);
 }
 body .head {
-  background-image: url("../photo/peace_of_bread.png");
+  background-image: url("../photo/peace_of_bread.PNG");
   background-size: 100% 100%;
   color: rgb(250, 250, 246);
 }
@@ -890,25 +890,25 @@ body .send:hover {
 }
 body .first_image_of_location {
   height: 400px;
-  background-image: url("../photo/first_bakery.png");
+  background-image: url("../photo/first_bakery.PNG");
   background-size: 100% 100%;
   margin: 0 50px 0 50px;
 }
 body .second_image_of_location {
   height: 400px;
-  background-image: url("../photo/second_bakery.png");
+  background-image: url("../photo/second_bakery.PNG");
   background-size: 100% 100%;
   margin: 0 50px 0 50px;
 }
 body .third_image_of_location {
   height: 400px;
-  background-image: url("../photo/third_bakery.png");
+  background-image: url("../photo/third_bakery.PNG");
   background-size: 100% 100%;
   margin: 0 50px 0 50px;
 }
 body .fourth_image_of_location {
   height: 400px;
-  background-image: url("/photo/fourth_bakery.png");
+  background-image: url("/photo/fourth_bakery.PNG");
   background-size: 100% 100%;
   margin: 0 50px 0 50px;
 }
@@ -943,13 +943,13 @@ body .buy:hover {
 }
 body .image_of_information_in_bake {
   display: flex;
-  background-image: url("../photo/photo_of_bake.png");
+  background-image: url("../photo/photo_of_bake.PNG");
   background-size: cover;
   background-position: center;
   margin-right: 50px;
 }
 body .image_of_information_in_bake.bake {
-  background-image: url("../photo/photo_of_bread.png");
+  background-image: url("../photo/photo_of_bread.PNG");
 }
 body .first_text_of_information_in_bake {
   margin-left: 50px;
