@@ -805,7 +805,7 @@ body .div_information {
 }
 body .div_information .first_image_of_information {
   display: flex;
-  background-image: url("../photo/human.png");
+  background-image: url("../photo/human.PNG");
   background-size: cover;
   background-position: center;
   height: 400px;
